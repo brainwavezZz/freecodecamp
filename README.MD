@@ -14,10 +14,10 @@ Steps
 3. Push the repository to GitHub
     After you create the repo, you should be redirected to a page that tells you how to create a repo locally or push an existing one.
 
-# Make changes & go for it again.
-
 Commands;
 
-git status
-git add
-git commit -m
+A. git status
+B. git add
+C. git commit -m
+
+# Make changes & go for it again.
