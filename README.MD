@@ -16,3 +16,8 @@ Steps
 
 # Make changes & go for it again.
 
+Commands;
+
+git status
+git add
+git commit -m
